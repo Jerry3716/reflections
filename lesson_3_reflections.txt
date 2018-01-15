@@ -1,12 +1,13 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
 
-    Fill in your answer here
+A remote repository allows for changes to be made public when wanted.  Otherwise,
+the changes would be public right away.
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+The changes by other people may have an effect on your project.  
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
